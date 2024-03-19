@@ -12,7 +12,7 @@ Resources for Bayesian data analysis, causal inference, and epistemology
 * Here is the course page by Andrew Gelman: http://www.stat.columbia.edu/~gelman/book/ 
                 
 ## Causal inference and modeling:
-* McElreath's course om Causal inference (but is in some part  included in Statistical rethinking 2023) https://www.youtube.com/watch?v=KNPYUVmY3NM 
+* McElreath's course on Causal inference (it is in some part included in Statistical rethinking 2023) https://www.youtube.com/watch?v=KNPYUVmY3NM 
 
 Judea Pearl's work:
 * Here it is one short book (you can download all the chapters ) http://bayes.cs.ucla.edu/PRIMER/ 
