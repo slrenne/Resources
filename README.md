@@ -1,2 +1,46 @@
 # Resources
 Resources for Bayesian data analysis, causal inference, and epistemology
+
+## Statistical Rethinking course by Richard McElreath: 
+* Here it is the course: https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus 
+* Here it is the course website: https://github.com/rmcelreath/stat_rethinking_2023 
+* Here it is the book:  https://github.com/Booleans/statistical-rethinking/blob/3cfa2eee33ff3d0086d47f03bca098b5460d4531/Statistical%20Rethinking%202nd%20Edition.pdf
+
+## Bayesian Data Analysis
+* Here is the book: https://users.aalto.fi/~ave/BDA3.pdf 
+* Here is the course by Aki Vehtari: https://avehtari.github.io/BDA_course_Aalto/gsu2023.html (with links to videos)
+* Here is the course page by Andrew Gelman: http://www.stat.columbia.edu/~gelman/book/ 
+                
+## Causal inference and modeling:
+* McElreath's course om Causal inference (but is in some part  included in Statistical rethinking 2023) https://www.youtube.com/watch?v=KNPYUVmY3NM 
+
+Judea Pearl's work:
+* Here it is one short book (you can download all the chapters ) http://bayes.cs.ucla.edu/PRIMER/ 
+* Here it is foundational work https://yzhu.io/courses/core/reading/04.causality.pdf 
+* Here it is his keynote at PyData conference https://www.youtube.com/watch?v=ZaPV1OSEpHw 
+
+Jonas Peters work is very interesting in bivariate cases
+* Here it is a course he gave at the MIT https://www.youtube.com/watch?v=zvrcyqcN9Wo (it is just part one, look for the remaining)
+* Here it is the handout of the course https://people.math.ethz.ch/~jopeters/jonas_files/scriptChapter1-4.pdf 
+* Here it is his book https://mitp-content-server.mit.edu/books/content/sectbyfn?collid=books_pres_0&id=11283&fn=11283.pdf 
+* Here it is his website with few resources https://people.math.ethz.ch/~jopeters/ 
+* Here it is a web-version to jot down directed acyclic graphs http://www.dagitty.net/ 
+
+## Stan
+A platform that allows you do statistical modeling https://mc-stan.org/ 
+I either program the model from R or directly in Stan (uses C++), see also https://mc-stan.org/docs/stan-users-guide/linear-regression.html 
+* There is an official youtube page https://www.youtube.com/@stan3394
+
+Here a couple of presentation from Bob Carpenter (developer of Stan)
+* https://www.youtube.com/watch?v=6NXRCtWQNMg 
+* https://www.youtube.com/watch?v=qQFF4tPgeWI 
+
+Form Micheal Betancourt
+* https://www.youtube.com/watch?v=uSjsJg8fcwY
+* he also has a very nice website (https://betanalpha.github.io/writing/) with tutorials
+                                
+## Epistemology 
+Three good videos from McElreath:
+* Science Is Like A Chicken Coop https://www.youtube.com/watch?v=d8LqFO1dk-w 
+* Science as Amateur Software Development https://www.youtube.com/watch?v=zwRdO9_GGhY
+* The Problem with Cultural Evolution https://www.youtube.com/watch?v=Ez3o3uWRSyY   
