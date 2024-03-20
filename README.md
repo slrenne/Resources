@@ -48,5 +48,5 @@ Three good videos from McElreath:
 ## Writing
 Lecture by Larry McEnerney from the University of Chicago writing program: 
 * writing effectively: https://youtu.be/vtIzMaLkCaM?si=gkgWVZliXSxcSBqF
-* handout 
+* handout: https://github.com/slrenne/Resources/blob/main/files/UnivChic_WritingProg-1grt232.pdf 
 * writing beyond academy: https://youtu.be/aFwVf5a3pZM?si=c3DS8LCOe7d0OUPJ
