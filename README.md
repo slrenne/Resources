@@ -44,3 +44,9 @@ Three good videos from McElreath:
 * Science Is Like A Chicken Coop https://www.youtube.com/watch?v=d8LqFO1dk-w 
 * Science as Amateur Software Development https://www.youtube.com/watch?v=zwRdO9_GGhY
 * The Problem with Cultural Evolution https://www.youtube.com/watch?v=Ez3o3uWRSyY   
+
+## Writing
+Lecture by Larry McEnerney from the University of Chicago writing program: 
+* writing effectively: https://youtu.be/vtIzMaLkCaM?si=gkgWVZliXSxcSBqF
+* handout 
+* writing beyond academy: https://youtu.be/aFwVf5a3pZM?si=c3DS8LCOe7d0OUPJ
