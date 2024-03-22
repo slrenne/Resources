@@ -2,22 +2,18 @@
 Resources for Bayesian data analysis, causal inference, epistemology, and more.
 
 ## Statistical Rethinking course by Richard McElreath: 
-* Here it is the course: https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus 
-* Here it is the course website: https://github.com/rmcelreath/stat_rethinking_2023 
-* Here it is the book:  https://github.com/Booleans/statistical-rethinking/blob/3cfa2eee33ff3d0086d47f03bca098b5460d4531/Statistical%20Rethinking%202nd%20Edition.pdf
+Very didactical [course](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus) on Bayesian statistics and causal modeling. Here it is the cours's [website](https://github.com/rmcelreath/stat_rethinking_2023) (with slides and code), and here it is the [book](https://github.com/Booleans/statistical-rethinking/blob/3cfa2eee33ff3d0086d47f03bca098b5460d4531/Statistical%20Rethinking%202nd%20Edition.pdf).
 
 ## Bayesian Data Analysis
-* Here is the book: https://users.aalto.fi/~ave/BDA3.pdf 
-* Here is the course by Aki Vehtari: https://avehtari.github.io/BDA_course_Aalto/gsu2023.html (with links to videos)
-* Here is the course page by Andrew Gelman: http://www.stat.columbia.edu/~gelman/book/ 
+More mathematical approach to Bayesian statistics. Here is the [course](https://avehtari.github.io/BDA_course_Aalto/gsu2023.html)  held by Aki Vehtari (with links to videos), and the [book](https://users.aalto.fi/~ave/BDA3.pdf). Here is the [page](http://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman. 
                 
 ## Causal inference and modeling:
-* McElreath's course on Causal inference (it is in some part included in Statistical rethinking 2023) https://www.youtube.com/watch?v=KNPYUVmY3NM 
+* McElreath's [course](https://www.youtube.com/watch?v=KNPYUVmY3NM ) on Causal inference (it is in some part included in Statistical rethinking 2023) 
 
 Judea Pearl's work:
-* Here it is one short book (you can download all the chapters ) http://bayes.cs.ucla.edu/PRIMER/ 
 * Here it is foundational work https://yzhu.io/courses/core/reading/04.causality.pdf 
 * Here it is his keynote at PyData conference https://www.youtube.com/watch?v=ZaPV1OSEpHw 
+* Here it is one short book (you can download all the chapters ) http://bayes.cs.ucla.edu/PRIMER/ 
 
 Jonas Peters work is very interesting in bivariate cases
 * Here it is a course he gave at the MIT https://www.youtube.com/watch?v=zvrcyqcN9Wo (it is just part one, look for the remaining)
