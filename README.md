@@ -1,5 +1,5 @@
 # Resources
-Resources for Bayesian data analysis, causal inference, and epistemology
+Resources for Bayesian data analysis, causal inference, epistemology, and more.
 
 ## Statistical Rethinking course by Richard McElreath: 
 * Here it is the course: https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus 
