@@ -50,3 +50,7 @@ Lecture by Larry McEnerney from the University of Chicago writing program:
 * writing effectively: https://youtu.be/vtIzMaLkCaM?si=gkgWVZliXSxcSBqF
 * handout: https://github.com/slrenne/Resources/blob/main/files/UnivChic_WritingProg-1grt232.pdf 
 * writing beyond academy: https://youtu.be/aFwVf5a3pZM?si=c3DS8LCOe7d0OUPJ
+Judith Swan Princeton Writing Program:
+* scientific writing: https://youtu.be/jLPCdDp_LE0?si=gHMsedaPjB7FdYaj
+* handout: https://github.com/slrenne/Resources/blob/main/files/swan_handout.pdf
+  
