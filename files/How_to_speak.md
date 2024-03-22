@@ -1,7 +1,7 @@
 # How To Speak by Prof. Patrick Winston
 
 [MIT 2018 talk](https://www.youtube.com/watch?v=Unzc731iCUY)
-from[Steven Maude](https://gist.github.com/StevenMaude/280eadc60938ce4b6960dc60e830662d)
+
 
 ## How to start
 
@@ -149,3 +149,7 @@ from[Steven Maude](https://gist.github.com/StevenMaude/280eadc60938ce4b6960dc60e
 * Examples from political speeches: finish with a call to action.
 * Can "salute" the audience: express how much you value your time at a
   place.
+
+  
+From[Steven Maude](https://gist.github.com/StevenMaude/280eadc60938ce4b6960dc60e830662d)
+
