@@ -34,7 +34,9 @@ Here a couple of presentation from Bob Carpenter (developer of Stan)
 Form Micheal Betancourt
 * https://www.youtube.com/watch?v=uSjsJg8fcwY
 * he also has a very nice website (https://betanalpha.github.io/writing/) with tutorials
-                                
+
+## Data visualization 
+* https://socviz.co                            
 ## Epistemology 
 Three good videos from McElreath:
 * Science Is Like A Chicken Coop https://www.youtube.com/watch?v=d8LqFO1dk-w 
