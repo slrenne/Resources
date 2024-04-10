@@ -11,7 +11,7 @@ More mathematical approach to Bayesian statistics. Here is the [course](https://
 * McElreath's [course](https://www.youtube.com/watch?v=KNPYUVmY3NM ) on Causal inference (it is in some part included in Statistical rethinking 2023) 
 
 Judea Pearl's work:
-* Here it is foundational work https://yzhu.io/courses/core/reading/04.causality.pdf 
+* Here it is foundational work [*Causality*](https://www.google.it/books/edition/Causality/f4nuexsNVZIC?hl=it&gbpv=1)
 * Here it is his keynote at PyData conference https://www.youtube.com/watch?v=ZaPV1OSEpHw 
 * Here it is one short book (you can download all the chapters ) http://bayes.cs.ucla.edu/PRIMER/ 
 
@@ -23,9 +23,9 @@ Jonas Peters work is very interesting in bivariate cases
 * Here it is a web-version to jot down directed acyclic graphs http://www.dagitty.net/ 
 
 ## Stan
-A platform that allows you do statistical modeling https://mc-stan.org/ 
-I either program the model from R or directly in Stan (uses C++), see also https://mc-stan.org/docs/stan-users-guide/linear-regression.html 
-* There is an official youtube page https://www.youtube.com/@stan3394
+* A platform that allows you do statistical modeling https://mc-stan.org/ 
+* Stan User guide https://mc-stan.org/docs/stan-users-guide/linear-regression.html 
+* There is an official youtube [page](https://www.youtube.com/@stan3394)
 
 Here a couple of presentation from Bob Carpenter (developer of Stan)
 * https://www.youtube.com/watch?v=6NXRCtWQNMg 
@@ -36,12 +36,15 @@ Form Micheal Betancourt
 * he also has a very nice website (https://betanalpha.github.io/writing/) with tutorials
 
 ## Data visualization 
-* https://socviz.co                            
+* nice introduction with some examples of bad graphs in the *Introduction to Data Science* textbook from Rafael A. Irizarry ([chapter 11](https://rafalab.dfci.harvard.edu/dsbook/data-visualization-principles.html))
+* Very nice and enjoyable [book](https://socviz.co) *Data Visualization. A practical introduction* by Kieran Healy.
+
+                       
 ## Epistemology 
 Three good videos from McElreath:
-* Science Is Like A Chicken Coop https://www.youtube.com/watch?v=d8LqFO1dk-w 
-* Science as Amateur Software Development https://www.youtube.com/watch?v=zwRdO9_GGhY
-* The Problem with Cultural Evolution https://www.youtube.com/watch?v=Ez3o3uWRSyY   
+* [Science Is Like A Chicken Coop](https://www.youtube.com/watch?v=d8LqFO1dk-w)
+* [Science as Amateur Software Development](https://www.youtube.com/watch?v=zwRdO9_GGhY)
+* [The Problem with Cultural Evolution](https://www.youtube.com/watch?v=Ez3o3uWRSyY)   
 
 ## Writing
 Larry McEnerney from the University of Chicago writing program: 
