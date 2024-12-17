@@ -6,14 +6,18 @@ Very didactical [course](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-Kx
 
 ## Bayesian Data Analysis
 More mathematical approach to Bayesian statistics. Here is the [course](https://avehtari.github.io/BDA_course_Aalto/gsu2023.html)  held by Aki Vehtari (with links to videos), and the [book](https://users.aalto.fi/~ave/BDA3.pdf). Here is the [page](http://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman. 
+
+## Bayesian workflow
+Nice [video](https://www.youtube.com/watch?v=ppKpwtGy8KQ) from Aki Vehtari also referencing to this (case study)[https://users.aalto.fi/~ave/casestudies/Birthdays/birthdays.html].
+Workflow also discussed by McElreath in this [video](https://youtu.be/oHWNexYPFTY?si=DPIN-00f9kNR8wGL&t=1259) (here the [slides](http://talmo.uk/2024/slides/mcelreath.pdf))
                 
 ## Causal inference and modeling:
 * McElreath's [course](https://www.youtube.com/watch?v=KNPYUVmY3NM ) on Causal inference (it is in some part included in Statistical rethinking 2023) 
 
 Judea Pearl's work:
 * Here it is foundational work [*Causality*](https://www.google.it/books/edition/Causality/f4nuexsNVZIC?hl=it&gbpv=1)
-* Here it is his keynote at PyData conference https://www.youtube.com/watch?v=ZaPV1OSEpHw 
-* Here it is one short book (you can download all the chapters ) http://bayes.cs.ucla.edu/PRIMER/ 
+* Here it is his [keynote](https://www.youtube.com/watch?v=ZaPV1OSEpHw ) at PyData conference 
+* Here it is one short book (you can [download](http://bayes.cs.ucla.edu/PRIMER/) all the chapters )  
 
 Jonas Peters work is very interesting in bivariate cases
 * Here it is a course he gave at the MIT https://www.youtube.com/watch?v=zvrcyqcN9Wo (it is just part one, look for the remaining)
