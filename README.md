@@ -8,7 +8,7 @@ Very didactical [course](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-Kx
 More mathematical approach to Bayesian statistics. Here is the [course](https://avehtari.github.io/BDA_course_Aalto/gsu2023.html)  held by Aki Vehtari (with links to videos), and the [book](https://users.aalto.fi/~ave/BDA3.pdf). Here is the [page](http://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman. 
 
 ## Bayesian workflow
-Nice [video](https://www.youtube.com/watch?v=ppKpwtGy8KQ) from Aki Vehtari also referencing to this (case study)[https://users.aalto.fi/~ave/casestudies/Birthdays/birthdays.html].
+Nice [video](https://www.youtube.com/watch?v=ppKpwtGy8KQ) from Aki Vehtari also referencing to this [case study](https://users.aalto.fi/~ave/casestudies/Birthdays/birthdays.html).
 Workflow also discussed by McElreath in this [video](https://youtu.be/oHWNexYPFTY?si=DPIN-00f9kNR8wGL&t=1259) (here the [slides](http://talmo.uk/2024/slides/mcelreath.pdf))
                 
 ## Causal inference and modeling:
