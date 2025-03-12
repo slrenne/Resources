@@ -63,3 +63,9 @@ Judith Swan Princeton Writing Program:
 Patrick Winston from MIT
 * How to speak [video](https://youtu.be/Unzc731iCUY?si=93UujYCs90g6fOQ6)
 * [Notes](https://github.com/slrenne/Resources/blob/main/files/How_to_speak.md)
+
+# Books
+## Science
+* [Feynman, R. P., Leighton, R. (1985). Surely You're Joking, Mr. Feynman!. UK: W.W. Norton.](https://www.google.it/books/edition/_/chaWQgAACAAJ?hl=it&sa=X&ved=2ahUKEwjB996vw4SMAxVuwAIHHSWVOd8Q7_IDegQIBBBl)
+
+
