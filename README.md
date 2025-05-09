@@ -47,7 +47,7 @@ Form Micheal Betancourt
 ## Epistemology 
 Three good videos from McElreath:
 * [Science Is Like A Chicken Coop](https://www.youtube.com/watch?v=d8LqFO1dk-w)
-* [Science as Amateur Software Development](https://www.youtube.com/watch?v=zwRdO9_GGhY)
+* [Science as Amateur Software Development](https://www.youtube.com/watch?v=zwRdO9_GGhY) and the [2023 edition](https://www.youtube.com/watch?v=8qzVV7eEiaI)
 * [The Problem with Cultural Evolution](https://www.youtube.com/watch?v=Ez3o3uWRSyY)   
 
 ## Writing
