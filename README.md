@@ -81,7 +81,7 @@ Resources for clear prose, scientific writing, and teaching writing to others.
 ### Writing - Talks and handouts
 
 - [Larry McEnerney: writing effectively](https://youtu.be/vtIzMaLkCaM?si=gkgWVZliXSxcSBqF) — a strong introduction to academic writing ([transcript](files/transcript_McEnerney_writing_effectively_c.txt) of the talk and [handout](files/UnivChic_WritingProg-1grt232.pdf)).
-- [Larry McEnerney: writing beyond the academy](https://youtu.be/aFwVf5a3pZM?si=c3DS8LCOe7d0OUPJ) — especially useful for writing for broader audiences ([transcript](files/transcript_McEnerney_writing_beyond_c.txt).
+- [Larry McEnerney: writing beyond the academy](https://youtu.be/aFwVf5a3pZM?si=c3DS8LCOe7d0OUPJ) — especially useful for writing for broader audiences ([transcript](files/transcript_McEnerney_writing_beyond_c.txt)).
 - [Judith Swan: scientific writing](https://youtu.be/jLPCdDp_LE0?si=gHMsedaPjB7FdYaj) — practical advice from the Princeton Writing Program.
 - [Handout](files/swan_handout.pdf) — companion notes for Swan’s talk.
 - [The Science of Scientific Writing](files/How_to_speak.md) — concise notes on the classic article.
